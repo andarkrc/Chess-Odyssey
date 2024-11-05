@@ -1,0 +1,4 @@
+network_destroy(client);
+time_source_destroy(connectionVerify);
+time_source_destroy(onlineServerListLoading);
+time_source_destroy(refreshButtonLoop);

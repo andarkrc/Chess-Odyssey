@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sndPieceSelect",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.133937,
+  "name":"sndPieceSelect",
+  "parent":{
+    "name":"Gameplay",
+    "path":"folders/Sounds/Gameplay.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndPieceSelect.wav",
+  "type":0,
+  "volume":0.15,
+}

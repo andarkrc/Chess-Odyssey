@@ -1,0 +1,1 @@
+draw_sprite_stretched(sGameTimeBG, 0, 0, 0, room_width, room_height);

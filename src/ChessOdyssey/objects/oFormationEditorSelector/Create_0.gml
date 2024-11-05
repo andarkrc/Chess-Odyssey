@@ -1,0 +1,10 @@
+mouseHover = false;
+wasSelected = true;
+piece = "";
+pieceType = "My";
+selected = false;
+mySound = -1;
+count = 0;
+image_speed = 0;
+image_xscale = 128/192;
+image_yscale = 128/192;

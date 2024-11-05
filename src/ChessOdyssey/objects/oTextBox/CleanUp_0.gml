@@ -1,0 +1,2 @@
+time_source_destroy(buttonActivator);
+time_source_destroy(flashTimer);
